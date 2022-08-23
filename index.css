@@ -1,0 +1,17 @@
+body {
+    background: #4682B4
+}
+
+p {
+    text-align: left;
+}
+#banner {
+     width: 35%;
+     border: 10px solid #000000;
+     padding: 10px;
+     margin-left: 15px;
+
+ }
+ul{
+display: inline-block;
+}
